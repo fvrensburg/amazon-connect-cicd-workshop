@@ -1,8 +1,8 @@
 {
     "env": "devops",
-    "account": "579439217631",
+    "account": "913524945924",
     "region": "us-east-1",
-    "codestarArn": "arn:aws:codeconnections:us-east-1:579439217631:connection/47d27702-abbe-438e-a045-32dcd581ac2e",
+    "codestarArn": "arn:aws:codeconnections:us-east-1:913524945924:connection/cfef7142-5a89-4261-9498-a28cbb92ed01",
     "repo": "amazon-connect-cicd-workshop",
     "owner": "fvrensburg",
     "email": "rensburf@amazon.com"
